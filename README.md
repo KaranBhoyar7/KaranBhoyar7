@@ -2,6 +2,7 @@
 <h3 align="center">AI Enthusiast and Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pngitem.com/pimgs/m/255-2557842_github-logo-png-github-star-wars-transparent-png.png">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanbhoyar7&label=Profile%20views&color=0e75b6&style=flat" alt="karanbhoyar7" /> </p>
 
 - 📫 How to reach me **karanbhoyar2003@gmail.com**
 
